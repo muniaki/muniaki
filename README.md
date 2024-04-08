@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on this platform to great lengths 
 - 📫 How to reach me lizzamuniaki@gmail.com
+I'm interested in web design and development 
 
 <!---
 muniaki/muniaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
